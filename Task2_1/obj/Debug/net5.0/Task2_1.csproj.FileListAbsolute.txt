@@ -1,0 +1,16 @@
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\bin\Debug\net5.0\Task2_1.exe
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\bin\Debug\net5.0\Task2_1.deps.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\bin\Debug\net5.0\Task2_1.runtimeconfig.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\bin\Debug\net5.0\Task2_1.runtimeconfig.dev.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\bin\Debug\net5.0\Task2_1.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\bin\Debug\net5.0\ref\Task2_1.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\bin\Debug\net5.0\Task2_1.pdb
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\obj\Debug\net5.0\Task2_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\obj\Debug\net5.0\Task2_1.AssemblyInfoInputs.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\obj\Debug\net5.0\Task2_1.AssemblyInfo.cs
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\obj\Debug\net5.0\Task2_1.csproj.CoreCompileInputs.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\obj\Debug\net5.0\Task2_1.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\obj\Debug\net5.0\ref\Task2_1.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\obj\Debug\net5.0\Task2_1.pdb
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\obj\Debug\net5.0\Task2_1.genruntimeconfig.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task2_1\obj\Debug\net5.0\Task2_1.csproj.AssemblyReference.cache

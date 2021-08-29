@@ -1,0 +1,16 @@
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\bin\Debug\net5.0\Task1_11.exe
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\bin\Debug\net5.0\Task1_11.deps.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\bin\Debug\net5.0\Task1_11.runtimeconfig.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\bin\Debug\net5.0\Task1_11.runtimeconfig.dev.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\bin\Debug\net5.0\Task1_11.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\bin\Debug\net5.0\ref\Task1_11.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\bin\Debug\net5.0\Task1_11.pdb
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\obj\Debug\net5.0\Task1_11.csproj.AssemblyReference.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\obj\Debug\net5.0\Task1_11.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\obj\Debug\net5.0\Task1_11.AssemblyInfoInputs.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\obj\Debug\net5.0\Task1_11.AssemblyInfo.cs
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\obj\Debug\net5.0\Task1_11.csproj.CoreCompileInputs.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\obj\Debug\net5.0\Task1_11.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\obj\Debug\net5.0\ref\Task1_11.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\obj\Debug\net5.0\Task1_11.pdb
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\Task1_11\obj\Debug\net5.0\Task1_11.genruntimeconfig.cache
