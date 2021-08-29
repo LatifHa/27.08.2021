@@ -1,0 +1,15 @@
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\bin\Debug\net5.0\ArraysAndObjects.ConsoleApp.exe
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\bin\Debug\net5.0\ArraysAndObjects.ConsoleApp.deps.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\bin\Debug\net5.0\ArraysAndObjects.ConsoleApp.runtimeconfig.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\bin\Debug\net5.0\ArraysAndObjects.ConsoleApp.runtimeconfig.dev.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\bin\Debug\net5.0\ArraysAndObjects.ConsoleApp.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\bin\Debug\net5.0\ref\ArraysAndObjects.ConsoleApp.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\bin\Debug\net5.0\ArraysAndObjects.ConsoleApp.pdb
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\obj\Debug\net5.0\ArraysAndObjects.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\obj\Debug\net5.0\ArraysAndObjects.ConsoleApp.AssemblyInfoInputs.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\obj\Debug\net5.0\ArraysAndObjects.ConsoleApp.AssemblyInfo.cs
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\obj\Debug\net5.0\ArraysAndObjects.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\obj\Debug\net5.0\ArraysAndObjects.ConsoleApp.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\obj\Debug\net5.0\ref\ArraysAndObjects.ConsoleApp.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\obj\Debug\net5.0\ArraysAndObjects.ConsoleApp.pdb
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\ArraysAndObjects.ConsoleApp\obj\Debug\net5.0\ArraysAndObjects.ConsoleApp.genruntimeconfig.cache
