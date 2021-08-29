@@ -1,0 +1,16 @@
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\bin\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.exe
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\bin\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.deps.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\bin\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.runtimeconfig.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\bin\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.runtimeconfig.dev.json
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\bin\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\bin\Debug\net5.0\ref\PseudoCodeTask1_2.ConsoleApp.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\bin\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.pdb
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\obj\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.csproj.AssemblyReference.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\obj\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\obj\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.AssemblyInfoInputs.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\obj\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.AssemblyInfo.cs
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\obj\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\obj\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\obj\Debug\net5.0\ref\PseudoCodeTask1_2.ConsoleApp.dll
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\obj\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.pdb
+E:\CodeAcademy\P512\ITP-lesson-3-20210821\homework\PseudoCodeTask1.ConsoleApp\PseudoCodeTask1_2.ConsoleApp\obj\Debug\net5.0\PseudoCodeTask1_2.ConsoleApp.genruntimeconfig.cache
